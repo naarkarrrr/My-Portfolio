@@ -58,7 +58,7 @@ const Contact = () => {
                       type="submit"
 
                     >
-                      <button type="submit" className="button">Send Message</button>
+                      <button type="submit" className="neoh_fn_button">Send Message</button>
                     </a>
                   </li>
 
