@@ -75,31 +75,31 @@ const Contact = () => {
 
             <div className="desc_holder">
               <p>
-                Let&apos;s Connect! Whether you&apos;re interested in collaborating on a project, have a question about my work, or simply want to say hello, I&apos;m just a click away. Reach out and let&apos;s start a conversation.
+                Let&apos;s Connect! Whether you&apos;re interested in collaborating on a project, have a question about my work, or simply want to say hello, We are just a click away. Reach out and let&apos;s start a conversation.
               </p>
               <p>
-                Get in Touch! I&apos;m thrilled to connect with you. If you&apos;re looking to discuss a potential project, inquire about my services, or even just share your thoughts, don&apos;t hesitate to reach out. I&apos;m here to listen, collaborate, and bring your ideas to life.
+                Get in Touch! We are thrilled to connect with you. If you&apos;re looking to discuss a potential project, inquire about my services, or even just share your thoughts, don&apos;t hesitate to reach out. We are here to listen, collaborate, and bring your ideas to life.
               </p>
             </div>
-            {/* <div className="info_list">
+            <div className="info_list">
               <ul>
                 <li>
-                  <p className="label">I&apos;m From</p>
-                  <h3 className="value">Vasai, Maharashtra</h3>
+                  <p className="label">We are From</p>
+                  <h3 className="value">Mumbai, Maharashtra</h3>
                 </li>
                 <li>
                   <p className="label">Contact</p>
                   <h3 className="value">
-                    <a href="tel:+91 84598 72341">+91 84598 72341</a>
+                    <a href="tel:+91 84598 31985">+91 84598 31985</a>
                   </h3>
                 </li>
                 <li>
-                  <a href="mailto:shivamnarkar04@gmail.com" className="email">
-                    shivamnarkar04@gmail.com
+                  <a href="mailto:underscoredigitalsolutions@gmail.com" className="email">
+                    underscoredigitalsolutions@gmail.com
                   </a>
                 </li>
               </ul>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
