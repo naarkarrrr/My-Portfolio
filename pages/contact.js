@@ -81,7 +81,7 @@ const Contact = () => {
                 Get in Touch! I&apos;m thrilled to connect with you. If you&apos;re looking to discuss a potential project, inquire about my services, or even just share your thoughts, don&apos;t hesitate to reach out. I&apos;m here to listen, collaborate, and bring your ideas to life.
               </p>
             </div>
-            <div className="info_list">
+            {/* <div className="info_list">
               <ul>
                 <li>
                   <p className="label">I&apos;m From</p>
@@ -99,7 +99,7 @@ const Contact = () => {
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

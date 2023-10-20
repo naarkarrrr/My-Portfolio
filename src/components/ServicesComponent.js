@@ -16,7 +16,7 @@ const ServicesComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">My 4 Key <i>Mantras</i></h3>
+          <h3 className="fn_title">Services we Provide</h3>
           <div className="line">
             <span />
           </div>
@@ -31,10 +31,9 @@ const ServicesComponent = () => {
                   <span>01</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Elegant Design</h3>
+                  <h3 className="fn_title">Website Development</h3>
                   <p className="fn_desc fn_animated_text">
-                  Crafting digital landscapes that exude sophistication and resonate with timeless elegance, 
-                  elevating every pixel into an artistic expression.
+                  Build a powerful online presence with our user-focused website development.
                   </p>
                 </div>
               </div>
@@ -45,10 +44,9 @@ const ServicesComponent = () => {
                   <span>02</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Trendy Aesthetics</h3>
+                  <h3 className="fn_title">Mobile App Development</h3>
                   <p className="fn_desc fn_animated_text">
-                  Infusing designs with the pulse of the latest trends, 
-                  merging modern sensibilities to create an immersive journey through the contemporary.
+                  Turn your ideas into engaging mobile experiences with our innovative app development.
                   </p>
                 </div>
               </div>
@@ -59,10 +57,9 @@ const ServicesComponent = () => {
                   <span>03</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Creative Mastery</h3>
+                  <h3 className="fn_title">Web/App Maintainance</h3>
                   <p className="fn_desc fn_animated_text">
-                  Harnessing the power of imagination and innovation, 
-                  each creation is a masterpiece born from the fusion of creativity and technical expertise.
+                  Ensure lasting performance with our meticulous website and app maintenance services.
                   </p>
                 </div>
               </div>
@@ -73,10 +70,9 @@ const ServicesComponent = () => {
                   <span>04</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Seamless Experience</h3>
+                  <h3 className="fn_title">E-Commerce Solutions</h3>
                   <p className="fn_desc fn_animated_text">
-                  Weaving a tapestry of interactions where users are guided through a fluid, 
-                  intuitive journey, where every click feels natural and every moment captivating.
+                  Elevate your business online with our end-to-end e-commerce solutions for seamless transactions.
                   </p>
                 </div>
               </div>

@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="img">
                   <img src="img/footer-logo.png" alt="" />
                 </div>
-                <h3 className="fn_title">Join my Newsletter</h3>
+                <h3 className="fn_title">Join our Newsletter</h3>
                 <p className="fn_desc">Subscribe to Receive a Treasure Trove of Exclusive Insights, Creative Inspirations, 
                 and Stay Ahead with the Latest Cutting-Edge Trends in Web Development, Design, and Beyond
                 </p>
@@ -45,26 +45,26 @@ const Footer = () => {
                 </div>
               <div className="neoh_fn_social_list">
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href="https://github.com/naarkarrrr" target='_blank'>
                       <i className="fn-icon-github" />
                     </a>
-                  </li>
+                  </li> */}
                   <li>
-                    <a href="https://www.instagram.com/naarkarrrr" target='_blank'>
+                    <a href="https://www.instagram.com/underscore.social" target='_blank'>
                       <i className="fn-icon-instagram" />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="https://www.linkedin.com/in/shivam-narkar-61277527a/" target='_blank'>
                       <i className="fn-icon-linkedin" />
                     </a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a href="https://www.youtube.com/c/ShivamNarkar" target='_blank'>
                       <i className="fn-icon-youtube" />
                     </a>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <a href="#">
                       <i className="fn-icon-github" />
@@ -85,11 +85,11 @@ const Footer = () => {
                   Copyright {new Date().getFullYear()} - Designed &amp;
                   Developed by{" "}
                   <a
-                    href="https://instagram.com/naarkarrrr"
+                    href="https://instagram.com/underscore.social"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Shivam Narkar
+                    Underscore Digital Solutions
                   </a>
                 </p>
               </div>

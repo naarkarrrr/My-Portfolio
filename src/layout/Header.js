@@ -99,10 +99,10 @@ const Header = () => {
             <p>
               Copyright 2022- Designed &amp; Developed by{" "}
               <a
-                href="https://instagram.com/naarkarrrr"
+                href="https://instagram.com/underscore.social"
                 target="_blank"
               >
-                Shivam Narkar
+                Underscore Digital Solutions
               </a>
             </p>
           </div>
@@ -110,18 +110,8 @@ const Header = () => {
             <div className="neoh_fn_social_list">
               <ul>
                 <li>
-                  <a href="https://github.com/naarkarrrr" target='_blank'>
-                    <i className="fn-icon-github" />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com/in/naarkarrrr" target='_blank'>
+                  <a href="https://www.instagram.com/underscore.social" target='_blank'>
                     <i className="fn-icon-instagram" />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.linkedin.com/in/shivam-narkar-61277527a/" target='_blank'>
-                    <i className="fn-icon-linkedin" />
                   </a>
                 </li>
               </ul>

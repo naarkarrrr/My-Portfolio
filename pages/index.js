@@ -1,8 +1,6 @@
 import AboutComponent from "../src/components/AboutComponent";
 import BlogComponent from "../src/components/BlogComponent";
-import Drops from "../src/components/Drops";
 import ServicesComponent from "../src/components/ServicesComponent";
-import WhyChooseUsComponent from "../src/components/WhyChooseUsComponent";
 import Layout from "../src/layout/Layout";
 
 const Index = () => {
@@ -24,10 +22,10 @@ const Index = () => {
           <div className="container">
             <div className="content">
               <h2 className="fn_title" title="Neoh">
-                Shivam Narkar
+                Under<br></br>score
               </h2>
               <p className="fn_desc fn_animated_text">
-                I am A Web UI/UX Designer and Web Developer.
+                Digital Solutions
               </p>
             </div>
           </div>
@@ -49,9 +47,9 @@ const Index = () => {
       {/* Services Section */}
       <ServicesComponent />
       {/* !Services Section */}
-      <Drops />
+      {/* <Drops /> */}
       {/* Investor Section */}
-      <WhyChooseUsComponent />
+      {/* <WhyChooseUsComponent /> */}
       {/* !Investor Section */}
       {/* Blog Section */}
       {/* <BlogComponent /> */}
